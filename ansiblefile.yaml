@@ -2,6 +2,10 @@ code
 additional code
 additional code added from my local repo
 another code from me
+<<<<<<< HEAD
 2nd set of changes done by me in localrepo
 doing additional changes for merge conflict
 storing additinal data
+=======
+
+>>>>>>> parent of bb20a46 (local repo changes)
